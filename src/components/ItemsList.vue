@@ -12,7 +12,7 @@
         <div class="items__list-card-bot">
           <h3>${{ item.price }}</h3>
           <button>
-            <router-link :to="'eBrandShop/Item/' + item.id">+</router-link>
+            <router-link :to="'/eBrandShop/Item/' + item.id">+</router-link>
           </button>
         </div>
       </div>
