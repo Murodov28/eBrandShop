@@ -16,7 +16,7 @@
       >
         <div class="navbar__navigation-left-list">
           <ul>
-            <li><a href="/eBrandShop/Katalog">Shop</a></li>
+            <li><<router-link to="/eBrandShop/Katalog">Shop</router-link></li>
             <li><a href="#!">On Sale</a></li>
             <li><router-link to="/eBrandShop/Katalog">Katalog</router-link></li>
             <li><a href="#!">Brands</a></li>
